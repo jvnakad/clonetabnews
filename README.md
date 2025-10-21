@@ -1,0 +1,2 @@
+# clonetabnews
+Aplicando estudos
